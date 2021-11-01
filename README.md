@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedagil
 - 👀 I’m interested in cybersecurity and software engineering
-- 🌱 I’m currently learning common security issues
-- 💞️ I’m looking to collaborate on CTF challenges
+- 🌱 I’m currently learning how to find vulnerabilities in web apps
+- 💞️ I’m looking to collaborate on cybersecurity CTF challenges
 - 📫 How to reach me: pportokalakis@gmail.com
 
 <!---
